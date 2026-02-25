@@ -11,6 +11,6 @@ Alguns fatos sobre mim:
 - Um dos meus objetivos e entrar no gamelab se possivel ainda esse semestre e tambem pela primeira vez ser menos ansioso durante a prova
 - Posso listar algumas coisas que sou boa como jogar sou muito boa pelo menos e o que dizem, gosto de desenhar e muitas outras coisas como jogar RPG
 - Acho que não tenho muitas skills, tipo acho que fazer design e criatividade são algunas bem uteis pra esse curso
-https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white
+
 
 -->
