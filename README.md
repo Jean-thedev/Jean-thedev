@@ -8,9 +8,5 @@ Alguns fatos sobre mim:
 - Hey meu nome e Maria Ribeiro mais prefiro ser chamada de Jean
 - Faço parte da turma de ciencia da computação do turno da tarde da universidade cesupa
 - Diria que um dos principais motivos pra mim entrar na area e poder desenvolver um jogo e meu sonho desde criança
-- Um dos meus objetivos e entrar no gamelab se possivel ainda esse semestre
-- 
-- 
-- 
-- 
+- Um dos meus objetivos e entrar no gamelab se possivel ainda esse semestre e tambem pela primeira vez ser menos ansioso durante a prova
 -->
